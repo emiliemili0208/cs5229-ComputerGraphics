@@ -1,0 +1,28 @@
+## Project
+## Instructor: Willem Schreuder
+## Student: Yi Chen Kuo
+## Email: yiku2564@colorado.edu
+
+### To make: 
+Open Terminal, cd to the directory and enter command "make".
+
+### To run this program:
+cd to the the directory and enter command "./final".
+
+Key bindings:
+  w          Walk forward 
+  s          Walk backward 
+  a          Walk right 
+  d          Walk left 
+  arrows     Change view angle of first person navigation
+  O/o        Open the door
+  L/l        Change light
+  0          Reset view angle
+  ESC        Exit
+
+### What makes my project worthy an A:
+1. I build every objects such as furnitures and decorations by myself.
+2. I have flash light effect.
+3. I made a door that could be rotated.
+4. I have mirror that can reflect objects.
+5. I use partical effect to simulate the fire.
